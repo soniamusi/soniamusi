@@ -78,9 +78,6 @@
   <a href="https://www.linkedin.com/in/s%C3%B4nia-muniz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:email@gmail.com.br?subject=Assunto do email&cc=smuniz.silva07@gmail.com&bcc=copiaoculta@provedor.com.br&body=Conteúdo do email que será preenchido    automaticamente" target="_blank"></a>
-   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
