@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sônia and I'm a Web Developer from Portugal</p>
+<p align="left">My name is Sônia and I'm a Web Developer e IT Support from Portugal</p>
 
 ###
 
