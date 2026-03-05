@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2018<br>📚 I'm currently learning React - Angular and Laravel<br>🎯 Goals: My goals are to improve my skills.<br>🎲 Fun fact: I love visiting historic cities and learning about the local culture.</p>
+<p align="left">✨ Coding since 2018<br>📚 I'm currently learning React - Next - Angular and Laravel<br>🎯 Goals: My goals are to improve my skills.<br>🎲 Fun fact: I love visiting historic cities and learning about the local culture.</p>
 
 ###
 
